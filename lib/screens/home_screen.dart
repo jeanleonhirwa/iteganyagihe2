@@ -446,7 +446,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
               Expanded(
                 child: _buildDetailCard(
                   Icons.water_drop_outlined,
-                  'Ubushuhe',
+                  'Ubushyuhe',
                   '${current.humidity}%',
                   Colors.blue.shade300,
                 ),

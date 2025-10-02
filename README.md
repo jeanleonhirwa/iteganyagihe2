@@ -7,7 +7,7 @@ Iteganyagihe ni porogaramu ya terefone igendanwa ikoresha WeatherAPI kugira ngo 
 - **Amakuru y'ikirere y'ubu**: Ubushyuhe, imiterere y'ikirere, n'ibindi
 - **Iteganyagihe ry'iminsi 7**: Reba ikirere kizaba gite mu minsi 7 iri imbere
 - **Gushaka ahantu**: Shakisha ahantu hose mu Rwanda
-- **Amakuru arambuye**: Ubushuhe, umuyaga, ibicu, UV, n'ibindi
+- **Amakuru arambuye**: Ubushyuhe, umuyaga, ibicu, UV, n'ibindi
 - **UI nziza**: Interface yiza ifite animations n'ibara bihinduka
 - **Responsive Design**: Ikora neza kuri terefone zose
 - **Pull to Refresh**: Kuramo amakuru mashya mu buryo bworoshye
@@ -55,7 +55,7 @@ Porogaramu itanga:
 - **Ubushyuhe**: Mu digiri za Celsius
 - **Imiterere y'ikirere**: Izuba, ibicu, imvura, n'ibindi
 - **Umuyaga**: Umuvuduko n'icyerekezo
-- **Ubushuhe**: Igipimo cy'amazi mu kirere
+- **Ubushyuhe**: Igipimo cy'amazi mu kirere
 - **Kureba**: Intera ushobora kureba
 - **UV Index**: Igipimo cy'imirasire y'izuba
 - **Ibicu**: Igipimo cy'ibicu mu kirere
