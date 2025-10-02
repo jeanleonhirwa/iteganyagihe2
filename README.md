@@ -8,6 +8,9 @@ Iteganyagihe ni porogaramu ya terefone igendanwa ikoresha WeatherAPI kugira ngo 
 - **Iteganyagihe ry'iminsi 7**: Reba ikirere kizaba gite mu minsi 7 iri imbere
 - **Gushaka ahantu**: Shakisha ahantu hose mu Rwanda
 - **Amakuru arambuye**: Ubushuhe, umuyaga, ibicu, UV, n'ibindi
+- **UI nziza**: Interface yiza ifite animations n'ibara bihinduka
+- **Responsive Design**: Ikora neza kuri terefone zose
+- **Pull to Refresh**: Kuramo amakuru mashya mu buryo bworoshye
 
 ## Ibyakozwe
 
