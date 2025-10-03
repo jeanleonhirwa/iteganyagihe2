@@ -328,7 +328,7 @@ class _SearchScreenState extends State<SearchScreen> with SingleTickerProviderSt
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Ahantu hazwi cyane',
+                        'Mu Rwanda',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
