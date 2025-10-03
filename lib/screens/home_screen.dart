@@ -410,7 +410,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
               borderRadius: BorderRadius.circular(20),
             ),
             child: Text(
-              'Yumva nk\'aho ari ${current.feelslikeC.round()}°',
+              'Hameze nk\'aho ari ${current.feelslikeC.round()}°',
               style: TextStyle(
                 color: Colors.white.withOpacity(0.9),
                 fontSize: 15,
