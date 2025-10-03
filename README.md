@@ -102,7 +102,7 @@ Porogaramu yose iri mu Kinyarwanda:
 
 ## Uburenganzira
 
-© 2024 Iteganyagihe. All rights reserved.
+© 2025 Iteganyagihe. All rights reserved.
 
 ## Ufasha
 
