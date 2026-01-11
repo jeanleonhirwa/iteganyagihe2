@@ -1,33 +1,33 @@
-# Iteganyagihe - Porogaramu y'Ikirere mu Rwanda
+# ITEGANYAGIGE - Rwanda Weather App
 
-Iteganyagihe ni porogaramu ya terefone igendanwa ikoresha WeatherAPI kugira ngo itange amakuru y'ikirere mu Rwanda. Porogaramu yose iri mu rurimi rw'Ikinyarwanda.
+ITEGANYAGIHE is a mobile app that uses WeatherAPI to provide weather information for Rwanda. The entire app is in Kinyarwanda language.
 
-## Ibirimo
+## Features
 
-- **Amakuru y'ikirere y'ubu**: Ubushyuhe, imiterere y'ikirere, n'ibindi
-- **Iteganyagihe ry'iminsi 7**: Reba ikirere kizaba gite mu minsi 7 iri imbere
-- **Gushaka ahantu**: Shakisha ahantu hose mu Rwanda
-- **Amakuru arambuye**: Ubushyuhe, umuyaga, ibicu, UV, n'ibindi
-- **UI nziza**: Interface yiza ifite animations n'ibara bihinduka
-- **Responsive Design**: Ikora neza kuri terefone zose
-- **Pull to Refresh**: Kuramo amakuru mashya mu buryo bworoshye
+- **Current weather info**: Temperature, weather conditions, and more
+- **7-day forecast**: Check what the weather will be like for the next 7 days
+- **Location search**: Search for any place in Rwanda
+- **Detailed information**: Temperature, wind, clouds, UV, and more
+- **Nice UI**: Beautiful interface with animations and changing colors
+- **Responsive Design**: Works well on all phones
+- **Pull to Refresh**: Easy way to get fresh updates
 
-## Ibyakozwe
+## What's Used
 
-Porogaramu ikoresha:
-- Flutter - Framework yo gukora porogaramu za terefone
-- WeatherAPI - API itanga amakuru y'ikirere
-- Ikinyarwanda - Ururimi rwose rw'interface
+The app uses:
+- Flutter - Framework for making mobile apps
+- WeatherAPI - API that provides weather information
+- Kinyarwanda - The language for the entire interface
 
-## Gukoresha
+## How to Use
 
-### Ibisabwa
+### Requirements
 
-- Flutter SDK (3.9.0 cyangwa hejuru)
-- Android Studio / Xcode (kugira ngo ukore test)
+- Flutter SDK (3.9.0 or higher)
+- Android Studio / Xcode (for testing)
 - Internet connection
 
-### Kwinjiza
+### Installation
 
 1. Clone repository:
 ```bash
@@ -35,35 +35,35 @@ git clone [repository-url]
 cd iteganyagihe2
 ```
 
-2. Injiza dependencies:
+2. Install dependencies:
 ```bash
 flutter pub get
 ```
 
-3. Kora porogaramu:
+3. Run the app:
 ```bash
-# Kuri Android
+# For Android
 flutter run
 
-# Kuri iOS
+# For iOS
 flutter run
 ```
 
-## Imiterere y'Amakuru
+## Data Structure
 
-Porogaramu itanga:
-- **Ubushyuhe**: Mu digiri za Celsius
-- **Imiterere y'ikirere**: Izuba, ibicu, imvura, n'ibindi
-- **Umuyaga**: Umuvuduko n'icyerekezo
-- **Ubushyuhe**: Igipimo cy'amazi mu kirere
-- **Kureba**: Intera ushobora kureba
-- **UV Index**: Igipimo cy'imirasire y'izuba
-- **Ibicu**: Igipimo cy'ibicu mu kirere
+The app provides:
+- **Temperature**: In Celsius degrees
+- **Weather conditions**: Sun, clouds, rain, and more
+- **Wind**: Speed and direction
+- **Humidity**: Measure of water in the air
+- **Visibility**: Distance you can see
+- **UV Index**: Measure of sun radiation
+- **Clouds**: Measure of clouds in the air
 
-## Ahantu hazwi mu Rwanda
+## Known Places in Rwanda
 
-Porogaramu itanga amakuru y'uturere twose mu Rwanda, harimo:
-- Kigali (Umurwa mukuru)
+The app provides information for all districts in Rwanda, including:
+- Kigali (Capital city)
 - Musanze
 - Rubavu
 - Huye
@@ -83,31 +83,31 @@ Porogaramu itanga amakuru y'uturere twose mu Rwanda, harimo:
 - Gakenke
 - Nyabihu
 - Ngororero
-- N'uturere twose turimo 30 mu Rwanda
+- And all 30 districts in Rwanda
 
 ## API Key
 
-Porogaramu ikoresha WeatherAPI. API key iri mu code:
+The app uses WeatherAPI. The API key is in the code:
 ```
 e2a7e5ceecf8419c87c55322250210
 ```
 
-## Inyandiko
+## Documentation
 
-Porogaramu yose iri mu Kinyarwanda:
-- Interface yose
-- Amakuru y'ikirere
-- Ubutumwa bw'amakosa
-- Amazina y'iminsi n'amezi
+The entire app is in Kinyarwanda:
+- Whole interface
+- Weather information
+- Error messages
+- Names of days and months
 
-## Uburenganzira
+## Copyright
 
 © 2025 Iteganyagihe. All rights reserved.
 
-## Ufasha
+## Support
 
-Niba ufite ikibazo cyangwa igitekerezo, waduha message.
+If you have a problem or suggestion, send us a message.
 
 ---
 
-**Iteganyagihe** - Menya ikirere kizaba gite mu Rwanda! 🌤️🇷🇼
+**Iteganyagihe** - Know what the weather will be like in Rwanda! 🌤️🇷🇼
